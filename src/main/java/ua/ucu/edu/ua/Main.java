@@ -11,8 +11,8 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 
 public class Main {
-    private static final String API_KEY = "ваш_API_KEY";
-    private static final String API_SECRET = "ваш_API_SECRET";
+    private static final String API_KEY = "API_KEY";
+    private static final String API_SECRET = "API_SECRET";
 
     public static void main(String[] args) throws MailjetException {
         MailjetClient client;
