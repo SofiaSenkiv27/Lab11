@@ -5,7 +5,6 @@ import java.util.List;
 import lombok.Builder;
 import lombok.Singular;
 import lombok.ToString;
-import lombok.Builder;
 @Builder
 @ToString
 public class Student {
